@@ -35,9 +35,9 @@ Una vez hecho esto, ya recogeremos el numero maximo de caracteres para la contra
 
 Ahora, en mi caso, al tener la lista partida en 3, he creado una variable que agrupe las 3 variables en una sola string  (todos_los_caracteres = numeros + letras + simbolos)
 
-Bien, ahora haremos uso de una de las primeras librerias, junto con time y maths, que aprendí, random.
+Bien, ahora haremos uso de unos de los primeros modulos, junto con time y maths, que aprendí, random.
 
-Os recomiendo esta libreria para ir jugando con ellas como primer contacto.
+Os recomiendo este modulo para ir jugando con ellas como primer contacto.
 
 Pues obviamente, tenemos que crear otra variable donde recoja la accion que le daremos a la libreria:
 
