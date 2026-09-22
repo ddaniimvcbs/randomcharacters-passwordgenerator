@@ -1,4 +1,4 @@
-*ADVERTENCIA* Al haber usado el modulo "random", estas contraseñas os recomiendo utilizarlas para redes sociales y poco mas. Su algoritmo (Mersenne Twister) es predecible. Sin embargo, se puede usar la librería "secrets" (haré un generador con ese modulo en especifico mas adelante) que sí serian mas seguras.
+*ADVERTENCIA* Al haber usado el modulo "random", estas contraseñas os recomiendo utilizarlas para redes sociales y poco mas. Su algoritmo (Mersenne Twister) es predecible. Sin embargo, se puede usar el modulo "secrets" (haré un generador con ese modulo en especifico mas adelante) que sí serian mas seguras.
 
 
 En primer lugar, gracias por echarle un simple vistazo a esto, tal vez te pueda ayudar a aprender algo de Python, si es asi me alegro. Soy muy nuevo en esto de la programacion, pero os detallare el porque del todo el codigo aqui, para así tambien poder ver si estoy entendiendo lo que estoy programando.
