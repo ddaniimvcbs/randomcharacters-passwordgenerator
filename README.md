@@ -41,7 +41,7 @@ So, obviously, we need to create another variable to store the action we'll give
 
 password = random.choices(all_characters, k=length)
 
-This is where the "magic" happens (the function starts working, haha...(laughs)).
+This is where the "magic" happens (the funcion return the password generated)
 
 random.choices allows us to take elements from the single list we created with all_characters and generate the password.
 
